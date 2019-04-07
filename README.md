@@ -4,4 +4,6 @@
 Its a Movie Rental Appilcation used in different stores. 
 Developed in ASP.Net MVC Architecture.
 
--Main Branch Repository(Arshad98M)
+
+
+-Main Branch Repository(Arshad98Mu) Date : 7/4/2019
