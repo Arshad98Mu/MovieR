@@ -1,5 +1,5 @@
 # MovieR
-.Net Project (7)
+.Net Project
 
 Its a Movie Rental Appilcation used in different stores. 
 Developed in ASP.Net MVC Architecture.
